@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         //this is where the code for the ui of the app goes
         VStack {
-            Text("Fluffy tummy!")
+            Text("Fluffy tummy! Yay!")
                 .font(.title)
                 .fontWeight(.semibold)
                 .foregroundColor(Color(hue: 0.113, saturation: 0.985, brightness: 0.56, opacity: 0.907))
